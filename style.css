@@ -1,0 +1,29 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button{
+    width: 60px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid #000000;
+    border-radius: 9px;
+    cursor: pointer;
+    align-items: center;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    width: 291px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 5px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+footer{
+    color: white;
+}
